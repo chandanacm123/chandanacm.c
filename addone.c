@@ -13,6 +13,8 @@ int add_one(int a)
       return b;
 }
 void output(int a, int b)
+{
+}
 int main(void)
 {
     int a=get_input();
